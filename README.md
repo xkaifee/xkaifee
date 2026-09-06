@@ -2,7 +2,7 @@
 
 whoami
 
-Purdue grad working in security, currently pointed at the practical end of it: how systems actually fail, and what it takes to notice before someone else does. I care a lot about privacy — not the buzzword version, the "why does this app need that permission" version.
+Purdue grad working in security, currently pointed at the practical end of it: how systems actually fail, and what it takes to notice before someone else does. I care a lot about privacy, not the buzzword version, the "why does this app need that permission" version.
 
 I build small tools to answer questions I got tired of asking manually, and I write things down so the next person doesn't have to start from zero.
 

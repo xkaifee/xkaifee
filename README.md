@@ -1,20 +1,3 @@
-
-/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Readme · MD
 <h1 align="center">Xaen Kaifee</h1> <p align="center"> <em>Cybersecurity engineer. I like locks, and I like the people who pick them.</em> </p> <p align="center"> <a href="https://www.linkedin.com/in/xaen-kaifee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:xaenskaifee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://xaenkaifee.com"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a> </p>
 whoami
 Purdue grad working in security, currently pointed at the practical end of it: how systems actually fail, and what it takes to notice before someone else does. I care a lot about privacy — not the buzzword version, the "why does this app need that permission" version.
@@ -36,9 +19,10 @@ Project three	One line on what you learned building it.
 Work in progress lives in private repos until it's worth your time. If something here is public, it's ready to be read.
 
 The house cat
-text
+
        /\_/\
       ( o.o )   still here, still watching the perimeter
        > ^ <
+       
 <p align="center"> <sub>Say hi → <a href="mailto:xaenskaifee@gmail.com">xaenskaifee@gmail.com</a> · <a href="https://www.linkedin.com/in/xaen-kaifee">LinkedIn</a></sub> </p>
 

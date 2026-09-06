@@ -7,8 +7,10 @@ Purdue grad working in security, currently pointed at the practical end of it: h
 I build small tools to answer questions I got tired of asking manually, and I write things down so the next person doesn't have to start from zero.
 
   Focus      →  security engineering, privacy, network + systems fundamentals
+  
   Learning   →  offensive tooling, detection engineering, cert grinding
-  Building   →  xaenkaifee.com — portfolio, notes, and things I broke on purpose
+  
+  Building   →  xaenkaifee.com portfolio, notes, and things I broke on purpose
 
 Toolbox
 
